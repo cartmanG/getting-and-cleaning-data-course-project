@@ -18,3 +18,13 @@ README.md - this file
 
 codebook.md - describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
+averages_data.txt - the output file from step 5 of course project
+
+#Data Files
+the following files and subdirectories were the raw data files
+activity_labels.txt
+features_info.txt
+features.txt
+readme.txt
+directory - test : all the test data
+directory - train : all the train data
